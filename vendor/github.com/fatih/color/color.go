@@ -204,7 +204,8 @@ func (c *Color) Print(a ...interface{}) (n int, err error) {
 	c.Set()
 	defer c.unset()
 
-	return fmt.Fprint(Output, a...)
+	return fmt.Print(a...)
+	// return fmt.Fprint(Output, a...)
 }
 
 // Fprintf formats according to a format specifier and writes to w.
@@ -225,7 +226,8 @@ func (c *Color) Printf(format string, a ...interface{}) (n int, err error) {
 	c.Set()
 	defer c.unset()
 
-	return fmt.Fprintf(Output, format, a...)
+	return fmt.Printf(format, a...)
+	// return fmt.Fprintf(Output, format, a...)
 }
 
 // Fprintln formats using the default formats for its operands and writes to w.
@@ -248,7 +250,8 @@ func (c *Color) Println(a ...interface{}) (n int, err error) {
 	c.Set()
 	defer c.unset()
 
-	return fmt.Fprintln(Output, a...)
+	return fmt.Println(a...)
+	// return fmt.Fprintln(Output, a...)
 }
 
 // Sprint is just like Print, but returns a string instead of printing it.
