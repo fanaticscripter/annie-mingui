@@ -1,0 +1,353 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "dr0BTaVeyt61GHygwOU+dSeionc=",
+			"path": "github.com/MercuryEngineering/CookieMonster",
+			"revision": "1584578b3403314f50b3b4f796c680cf98938c9e",
+			"revisionTime": "2018-03-04T17:27:13Z"
+		},
+		{
+			"checksumSHA1": "lJFHjASgUVihKAgXm06Qnwp4CnU=",
+			"path": "github.com/PuerkitoBio/goquery",
+			"revision": "1b16b92ddf27ae338f7f162d5e4316b31bccdb8e",
+			"revisionTime": "2020-02-04T23:10:22Z"
+		},
+		{
+			"checksumSHA1": "P4cfR9LgQ13Ak2wD4Z3wpd9zMMw=",
+			"path": "github.com/andybalholm/cascadia",
+			"revision": "903109d295d56a99095f2cfab0c2ca8d4b22f648",
+			"revisionTime": "2019-11-15T16:53:31Z"
+		},
+		{
+			"checksumSHA1": "0cPhH3GjPywWjl151UV2X5cazNA=",
+			"path": "github.com/cheggaaa/pb",
+			"revision": "ca7ab10606663e9efdbc3c1ad157459b5a2b0edf",
+			"revisionTime": "2020-01-09T12:30:23Z"
+		},
+		{
+			"checksumSHA1": "j1fgfOSjQ3Okf7A2RLUJjQd1e68=",
+			"path": "github.com/cloudfoundry-attic/jibber_jabber",
+			"revision": "bcc4c8345a21301bf47c032ff42dd1aae2fe3027",
+			"revisionTime": "2015-11-20T18:32:58Z"
+		},
+		{
+			"checksumSHA1": "ZAx+0+nA0f+pk1LTqvCqe24D2+U=",
+			"path": "github.com/fatih/color",
+			"revision": "daf2830f2741ebb735b21709a520c5f37d642d85",
+			"revisionTime": "2020-01-07T17:30:06Z"
+		},
+		{
+			"checksumSHA1": "HmbftipkadrLlCfzzVQ+iFHbl6g=",
+			"path": "github.com/golang/glog",
+			"revision": "23def4e6c14b4da8ac2ed8007337bc5eb5007998",
+			"revisionTime": "2016-01-25T20:49:56Z"
+		},
+		{
+			"checksumSHA1": "5w0oeBA2UcOKcSuasA6YYgWQszw=",
+			"path": "github.com/iawia002/annie",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "hxjPMZ6PhCTLqE23CpQEd1sU6tY=",
+			"path": "github.com/iawia002/annie/config",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "JxfPMw3Of5bIe76VnbLFQxf0SYk=",
+			"path": "github.com/iawia002/annie/downloader",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "NDPctoVdYcE47CW00UtUPvpYIbs=",
+			"path": "github.com/iawia002/annie/extractors",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "1VHgiCbxPIqqTYY2rMpAmAVfIFM=",
+			"path": "github.com/iawia002/annie/extractors/bcy",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "GMpdJMtHtYorP0pqU+zrdd3mP+E=",
+			"path": "github.com/iawia002/annie/extractors/bilibili",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "YdY0g6WWleGW1vLdjV0sM0YnbEU=",
+			"path": "github.com/iawia002/annie/extractors/douyu",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "VQw/2BHY/48yWcmu99vtelufnHE=",
+			"path": "github.com/iawia002/annie/extractors/facebook",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "EceCpo8N7vQ8ONVNKvPdM6hddfM=",
+			"path": "github.com/iawia002/annie/extractors/geekbang",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "UcvIOJjBiJ27+bKPA7alBo75DU8=",
+			"path": "github.com/iawia002/annie/extractors/instagram",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "hhLq7q0lN0lUMDjkHdXYi9BQg30=",
+			"path": "github.com/iawia002/annie/extractors/mgtv",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "iV7ekBnfOudG9IyaC/8dM5rYQB8=",
+			"path": "github.com/iawia002/annie/extractors/miaopai",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "Yz1rM6U1AmpPWFSZ44ri60LAo9s=",
+			"path": "github.com/iawia002/annie/extractors/pornhub",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "uwnAWmR5S6NoBNCBR2dgdeGgb80=",
+			"path": "github.com/iawia002/annie/extractors/tangdou",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "QXaCsUTTA+P/1nB3rBOt446y4es=",
+			"path": "github.com/iawia002/annie/extractors/tiktok",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "+bXYnqcRtzeUx4Fq7CFpou5aldA=",
+			"path": "github.com/iawia002/annie/extractors/tumblr",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "CnoCX4lDSvVLT/92FB1S1oPC/dw=",
+			"path": "github.com/iawia002/annie/extractors/twitter",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "+Vr45uZGuid/wLlmfxb5DMXjCrs=",
+			"path": "github.com/iawia002/annie/extractors/udn",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "ZpZCmcqnBtv0X5xRgwbOCPjS5mE=",
+			"path": "github.com/iawia002/annie/extractors/universal",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "69Y2j5pria/dLUzMX+o3zouISmI=",
+			"path": "github.com/iawia002/annie/extractors/vimeo",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "qKc/EoLCGcqjC0rPtZRyfjMcWes=",
+			"path": "github.com/iawia002/annie/extractors/weibo",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "J18grUnK8YtSHA/Yr3kwpE5TTBY=",
+			"path": "github.com/iawia002/annie/extractors/xvideos",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "6XrLAvB64SlC015DKN6BS3Fj4qA=",
+			"path": "github.com/iawia002/annie/extractors/yinyuetai",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "B0J4HI8N6RWvkFGWt3tlbK/R2HY=",
+			"path": "github.com/iawia002/annie/extractors/youku",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "zg7t878SrzSVox8INFjE6R5oVxU=",
+			"path": "github.com/iawia002/annie/extractors/youtube",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "NWMD6SF1B2FxS2xkPZ2RUTMrHec=",
+			"path": "github.com/iawia002/annie/parser",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "gxtMgh4bq9RwNX+VYDynzgQuBvU=",
+			"path": "github.com/iawia002/annie/request",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "QytL2xqsJjbtwrZLiAlerad/3BY=",
+			"path": "github.com/iawia002/annie/utils",
+			"revision": "9f6dfcb99250c6369ddc908b2adf475b89ff518f",
+			"revisionTime": "2020-02-04T10:32:59Z"
+		},
+		{
+			"checksumSHA1": "3ohk4dFYrERZ6WTdKkIwnTA0HSI=",
+			"path": "github.com/kr/pretty",
+			"revision": "73f6ac0b30a98e433b289500d779f50c1a6f0712",
+			"revisionTime": "2018-05-06T08:33:45Z"
+		},
+		{
+			"checksumSHA1": "SbguDK5lY8uhaHNrmJmNbiWIGM0=",
+			"path": "github.com/kr/text",
+			"revision": "e2ffdb16a802fe2bb95e2e35ff34f0e53aeef34f",
+			"revisionTime": "2018-05-06T08:24:08Z"
+		},
+		{
+			"checksumSHA1": "ibjotVl1/AIWtMOgxtk/7uc+ml4=",
+			"path": "github.com/mattn/go-colorable",
+			"revision": "c742d6fb21c22a5bb6f768a683e6782e52fe0311",
+			"revisionTime": "2020-01-10T01:04:45Z"
+		},
+		{
+			"checksumSHA1": "CQ794EIFp/4zTVi4redzOXOPY8k=",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "cb30d6282491c185f77d9bec5d25de1bb61a06bc",
+			"revisionTime": "2020-01-28T10:39:42Z"
+		},
+		{
+			"checksumSHA1": "FD/DYSVnNxWYPr14Ch+BIHfv8pw=",
+			"path": "github.com/mattn/go-runewidth",
+			"revision": "588506649b41f3e5b80a725a9bea447106b4f0d3",
+			"revisionTime": "2020-01-25T15:52:03Z"
+		},
+		{
+			"checksumSHA1": "6tte89pKKrKM2a2o4Zt1tX2LH3g=",
+			"path": "github.com/rs/zerolog",
+			"revision": "505b18daf2bba212b50e4fa77c65e4582879f1c0",
+			"revisionTime": "2020-01-15T21:01:51Z"
+		},
+		{
+			"checksumSHA1": "T/AhC59StnifUNDvcFu94LFgnG4=",
+			"path": "github.com/rs/zerolog/internal/cbor",
+			"revision": "505b18daf2bba212b50e4fa77c65e4582879f1c0",
+			"revisionTime": "2020-01-15T21:01:51Z"
+		},
+		{
+			"checksumSHA1": "g+F94Nkg/Z40NvgDI/H3kmHHQ24=",
+			"path": "github.com/rs/zerolog/internal/json",
+			"revision": "505b18daf2bba212b50e4fa77c65e4582879f1c0",
+			"revisionTime": "2020-01-15T21:01:51Z"
+		},
+		{
+			"checksumSHA1": "w5xCFKsOXer8E3H66ow4LSu4jZw=",
+			"path": "github.com/rs/zerolog/log",
+			"revision": "505b18daf2bba212b50e4fa77c65e4582879f1c0",
+			"revisionTime": "2020-01-15T21:01:51Z"
+		},
+		{
+			"checksumSHA1": "jyitdm8cPhrIP+rOJwyP4XIs8cQ=",
+			"path": "github.com/rylio/ytdl",
+			"revision": "9eb9d2cc851389624c52a8407f8249e52ef0fc61",
+			"revisionTime": "2020-01-02T15:33:49Z"
+		},
+		{
+			"checksumSHA1": "aRFS3vu2wJRT6NZ2qUM+ubj8lhQ=",
+			"path": "github.com/shibukawa/configdir",
+			"revision": "e180dbdc8da04c4fa04272e875ce64949f38bd3e",
+			"revisionTime": "2017-03-30T08:48:43Z"
+		},
+		{
+			"checksumSHA1": "l9aorcNX+ngbWQFkMbuPhscH8fM=",
+			"path": "github.com/tidwall/gjson",
+			"revision": "d10932a0d0b5f1618759b6259b05f7cb7bea0c25",
+			"revisionTime": "2020-01-20T19:32:37Z"
+		},
+		{
+			"checksumSHA1": "8jl+NYRKijAXkUwjpy89Q60q00A=",
+			"path": "github.com/tidwall/match",
+			"revision": "33827db735fff6510490d69a8622612558a557ed",
+			"revisionTime": "2018-12-10T10:08:38Z"
+		},
+		{
+			"checksumSHA1": "Ti6zpod6jwHyiDMHXKpLjMz8+4E=",
+			"path": "github.com/tidwall/pretty",
+			"revision": "b2475501f89994f7ea30b3c94ba86b49079961fe",
+			"revisionTime": "2020-02-04T19:12:46Z"
+		},
+		{
+			"checksumSHA1": "ozmp2tE2nJYZxhYAj0VwHS0Vz1U=",
+			"path": "golang.org/x/net/html",
+			"revision": "16171245cfb220d5317888b716d69c1fb4e7992b",
+			"revisionTime": "2020-01-30T10:58:50Z"
+		},
+		{
+			"checksumSHA1": "xwhqe/igHQrY3IhqDwzo6j7qpm8=",
+			"path": "golang.org/x/net/html/atom",
+			"revision": "16171245cfb220d5317888b716d69c1fb4e7992b",
+			"revisionTime": "2020-01-30T10:58:50Z"
+		},
+		{
+			"checksumSHA1": "2ZBntNOCs3ZTZEQKO/4cyP/6cFw=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "d101bd2416d505c0448a6ce8a282482678040a89",
+			"revisionTime": "2020-02-02T16:37:14Z"
+		},
+		{
+			"checksumSHA1": "ZYmvJ1qqXG5KHRKVs1tRsRMxj/Q=",
+			"path": "golang.org/x/sys/windows",
+			"revision": "d101bd2416d505c0448a6ce8a282482678040a89",
+			"revisionTime": "2020-02-02T16:37:14Z"
+		},
+		{
+			"checksumSHA1": "ybE4kAPmNPV/dvShuG86AmLbhdE=",
+			"path": "golang.org/x/text/internal/language",
+			"revision": "929e72ca90deac4784bbe451caf10faa5b256ebe",
+			"revisionTime": "2019-11-14T14:00:43Z"
+		},
+		{
+			"checksumSHA1": "VDwNSsZP6KShjTSwGUQUGJVrs1I=",
+			"path": "golang.org/x/text/internal/language/compact",
+			"revision": "929e72ca90deac4784bbe451caf10faa5b256ebe",
+			"revisionTime": "2019-11-14T14:00:43Z"
+		},
+		{
+			"checksumSHA1": "hyNCcTwMQnV6/MK8uUW9E5H0J0M=",
+			"path": "golang.org/x/text/internal/tag",
+			"revision": "929e72ca90deac4784bbe451caf10faa5b256ebe",
+			"revisionTime": "2019-11-14T14:00:43Z"
+		},
+		{
+			"checksumSHA1": "oYNlkS+0TimKOScUz3Hn9QWyz6w=",
+			"path": "golang.org/x/text/language",
+			"revision": "929e72ca90deac4784bbe451caf10faa5b256ebe",
+			"revisionTime": "2019-11-14T14:00:43Z"
+		},
+		{
+			"path": "https://github.com/shibukawa/configdir",
+			"revision": ""
+		}
+	],
+	"rootPath": "github.com/fanaticscripter/annie-mingui"
+}
