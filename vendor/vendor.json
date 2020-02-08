@@ -273,12 +273,6 @@
 			"revisionTime": "2020-01-02T15:33:49Z"
 		},
 		{
-			"checksumSHA1": "aRFS3vu2wJRT6NZ2qUM+ubj8lhQ=",
-			"path": "github.com/shibukawa/configdir",
-			"revision": "e180dbdc8da04c4fa04272e875ce64949f38bd3e",
-			"revisionTime": "2017-03-30T08:48:43Z"
-		},
-		{
 			"checksumSHA1": "l9aorcNX+ngbWQFkMbuPhscH8fM=",
 			"path": "github.com/tidwall/gjson",
 			"revision": "d10932a0d0b5f1618759b6259b05f7cb7bea0c25",
@@ -343,10 +337,6 @@
 			"path": "golang.org/x/text/language",
 			"revision": "929e72ca90deac4784bbe451caf10faa5b256ebe",
 			"revisionTime": "2019-11-14T14:00:43Z"
-		},
-		{
-			"path": "https://github.com/shibukawa/configdir",
-			"revision": ""
 		}
 	],
 	"rootPath": "github.com/fanaticscripter/annie-mingui"
