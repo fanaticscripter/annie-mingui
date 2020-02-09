@@ -18,7 +18,7 @@ import (
 )
 
 func progressBar(size int64) *pb.ProgressBar {
-	bar := pb.New64(size).SetUnits(pb.U_BYTES).SetRefreshRate(time.Millisecond * 100)
+	bar := pb.New64(size).SetUnits(pb.U_BYTES).SetRefreshRate(time.Millisecond * 200)
 	bar.ShowSpeed = true
 	bar.ShowFinalTime = true
 	bar.SetMaxWidth(1000)
